@@ -1,0 +1,11 @@
+/* Example css here, wesbite should be a dark-mode website*/
+
+body {
+  background-color: #000;
+  color: #fff;
+}
+
+/* Make body text fly in from  the left*/
+body {
+  animation: flyin 1s;
+}
